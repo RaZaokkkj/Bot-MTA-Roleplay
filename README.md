@@ -4,4 +4,3 @@ Por se tratar de um projeto "morto", estou disponibilizando ele para estudo ou u
 
 
 ![](https://media.discordapp.net/attachments/740722442430840923/753312414597906596/status2.gif?width=544&height=427)
-se
