@@ -10,7 +10,7 @@ exports.run = (client, message, args) => {
     let embed = new Discord.RichEmbed()
         .setColor("36393e")
         .addField("**Twitter**", `${twt}`)
-        .setFooter(`Novo Novo Twit Recebido: ${message.author.tag}`, `${message.author.avatarURL}`)
+        .setFooter(`Novo Twit Recebido: ${message.author.tag}`, `${message.author.avatarURL}`)
         .setTimestamp(new Date())
  
     let canal = message.guild.channels.find(canal => canal.name === "twitter");
